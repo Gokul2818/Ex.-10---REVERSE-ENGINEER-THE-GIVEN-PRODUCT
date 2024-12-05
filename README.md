@@ -35,10 +35,7 @@
 
 
 ### Output:
-![Screenshot (73)](https://github.com/user-attachments/assets/e799f3cc-7c7a-45bb-be1f-f66a6378ce22)
-
-
-
+![Screenshot 2024-12-05 140802](https://github.com/user-attachments/assets/a227c72d-735c-4b6b-8bd1-e25a0634f53b)
 
 ### Name: GOKUL S
 ### Register Number: 24004336
