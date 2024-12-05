@@ -35,7 +35,8 @@
 
 
 ### Output:
-![Screenshot (52)](https://github.com/user-attachments/assets/31974868-d05e-4c40-a0d0-1bdc09833816)
+![Screenshot (73)](https://github.com/user-attachments/assets/e799f3cc-7c7a-45bb-be1f-f66a6378ce22)
+
 
 
 
